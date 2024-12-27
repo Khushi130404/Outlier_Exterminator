@@ -26,3 +26,9 @@ This project is developed and demonstrated in a Jupyter Notebook for ease of use
 
 4. Visualization :-
   - Generate boxplots and histograms to visualize the effects of outlier treatment.
+
+## Required Libraries :-
+- pandas
+- numpy
+- matplotlib
+- seaborn
